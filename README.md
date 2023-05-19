@@ -1,5 +1,5 @@
 <center>
-<h1> INSTAGRAM API </h1>
+<h1> INSTAGRAM APPLICATION </h1>
 </center>
 <center>
 <a href="Java url">
